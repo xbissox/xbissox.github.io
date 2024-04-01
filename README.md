@@ -3,7 +3,7 @@
 <p><em>Sou programador</br></p>
 
 
-[![Linkedin: alessandrobisso](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-bisso-a90a2a7a/)](https://www.linkedin.com/in/alessandro-bisso-a90a2a7a/)
+[![Linkedin: alessandrobisso](https://img.shields.io/badge/-xbissox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-bisso-a90a2a7a/)](https://www.linkedin.com/in/alessandro-bisso-a90a2a7a/)
 [![GitHub xbissox](https://img.shields.io/github/followers/xbissox?label=follow&style=social)](https://xbissox.github.io)
 
 
