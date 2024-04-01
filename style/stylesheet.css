@@ -7,3 +7,17 @@ table#tabela-contato td {
     padding: 10px;
     border: 0px solid #606060;
 }
+p#sobremim {
+    font-style: italic;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+p#code {
+    background-color: rgb(255, 250, 250);
+    border-spacing: 0px;
+    padding: 20px;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    color: #4236f0;
+}
