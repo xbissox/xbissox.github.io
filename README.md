@@ -12,7 +12,6 @@
 ```javascript
 const xbissox = {
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Node, Styled-Components, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, Node, Styled-Components, Docker]
   
 ```
