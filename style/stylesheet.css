@@ -20,4 +20,7 @@ p#code {
     font-size: small;
     font-family: 'Courier New', Courier, monospace;
     color: #4236f0;
+    position: absolute;
+    left: 5%;
+    right: 20%;
 }
