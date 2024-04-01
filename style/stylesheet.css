@@ -1,0 +1,9 @@
+table#tabela-contato {
+    border-spacing: 0px;
+    margin-left: 50px;
+    margin-right: auto;
+}
+table#tabela-contato td {
+    padding: 10px;
+    border: 0px solid #606060;
+}
