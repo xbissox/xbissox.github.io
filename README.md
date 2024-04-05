@@ -12,7 +12,7 @@
 ```javascript
 const xbissox = {
   linguagens: [Javascript, Typescript, HTML, CSS, Python],
-  ferramentas: [React, Node, Styled-Components, Docker, PySide6, Django, \n Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e <br/> programação],
+  <p>ferramentas: [React, Node, Styled-Components, Docker, PySide6, Django, </p> Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e  programação],
   cursos: [Curso em Vídeo, Luiz Otávio Miranda (Udemy)]
   
 ```
